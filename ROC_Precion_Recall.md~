@@ -1,0 +1,9 @@
+ROC curve:
+
+receiver operating characteristic curve:
+
+illustrates the performance of a binary classifier system as its discriminationthreshold is varied
+
+True positive rate plotted against False positive rate
+
+meaning:  the area under the curve (often referred to as simply the AUC, or AUROC) is equal to the probability that a classifier will rank a randomly chosen positive instance higher than a randomly chosen negative one
